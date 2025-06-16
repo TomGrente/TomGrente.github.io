@@ -1,0 +1,25 @@
+body{
+    background-image:url(humains-les-plus-forts-dragon-ball-z_1400x.progressive.webp)
+      
+
+}   
+#projets{
+  color: #56edff;
+
+    position: relative;
+top: 0px;
+left: 0px;
+right:0px;
+}
+#life{
+position: relative;
+top: -21px;
+left: 70px;
+bottom: 45px;
+}
+#cinema{
+    position: relative;
+top: 0px;
+left: 0px;
+bottom: 80px;
+}
